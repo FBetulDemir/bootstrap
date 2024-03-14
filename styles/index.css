@@ -1,0 +1,36 @@
+body{
+    height: 200vh;
+    margin: 0;
+    background-image: url(../images/casey-lee-awj7sRviVXo-unsplash\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar-brand{
+    font-family: "Aldrich", sans-serif;
+    font-weight: 400;
+}
+a:hover{
+    color: #263fcc00;
+}
+
+p{
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.first-section{
+    height: 100vh;
+
+}
+.banner{
+    background-color: rgb(234, 231, 229);
+    width: 100%;
+}
+.second-section{
+    width: 100%;
+    height: auto;
+    background-color: rgb(234, 231, 229);
+    background-size: cover;
+    border-top: 2px solid rgb(251, 249, 247);
+}
